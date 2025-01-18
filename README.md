@@ -40,3 +40,7 @@ The player’s goal is to guess the randomly chosen secret number between 1 and 
    git clone https://github.com/OrasanuAna/Guess-My-Number.git
    ```
 2. Open the `index.html` file in a web browser to start the game.
+
+## Credits
+
+This project was developed as part of the **The Complete JavaScript Course: From Zero to Expert!** by **Jonas Schmedtmann**.
